@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-# 👋 Hey, there
-  
 ![profile](https://user-images.githubusercontent.com/83657737/220676612-0fbf2c9a-aa00-4542-b91a-3a2380261b8c.png)
-⚡ [ Visit portfolio ](https://github.com/amitanshusahu/amitanshusahu/edit/master/README.md)   
+⚡ [ Visit My Portfolio ](https://github.com/amitanshusahu/amitanshusahu/edit/master/README.md)   
   
   <br />
   
