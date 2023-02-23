@@ -39,11 +39,12 @@ i am that guy who uses linux and codes in vim <br>
     instagram facebook telegram twitter email
   </details>
   
-<!-- ![](https://github-readme-stats.vercel.app/api?username=amitanshusahu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false) -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amitanshusahu&theme=buefy&hide_border=false) -->
+---  
+![](https://github-readme-stats.vercel.app/api?username=amitanshusahu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amitanshusahu&theme=buefy&hide_border=false)
+ 
 </div>
 
----
 
 ```javascript
  const TECH_STACK = {
