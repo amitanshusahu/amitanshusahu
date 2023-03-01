@@ -39,14 +39,14 @@ Here are some ideas to get you started:
   
   <details> <summary> How To Reach Me </summary>
     <br>
-    instagram facebook telegram twitter email
+    too lazy to update this
   </details>
   
  --- 
   
   <details> <summary> Recent Projects </summary>
     <br>
-    instagram facebook telegram twitter email
+    see pinned ones :)
   </details>
   
 ---  
