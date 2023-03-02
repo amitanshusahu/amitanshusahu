@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   
   <details> <summary> Recent Projects </summary>
     <br>
-    see pinned ones :)
+    see pinned ones for the projects :)
   </details>
   
 ---  
