@@ -22,16 +22,15 @@ Here are some ideas to get you started:
  const TECH_STACK = {
  
     programmingLanguage : ['C', 'C++', 'JS', 'Python', 'Java', 'Bash'],
-    
-    webDevelopment : {
-      frontend : ['HTML', 'CSS', 'JS'],
-      backend : ['Nodejs (with Express)', 'Python (with Django)'],
-      frameworksNLibraries : ['Reactjs', 'Threejs', 'Ejs', 'Tailwind css', 'Bootstrap'],
-     },
-     
-     devTools : ['NeoVim', 'Sublime', 'Vs Code'],
-     
-   };
+    web: {
+      backend: ['Nodejs'],
+      frontend: ['React/any'],
+    },
+    devTools : ['NeoVim', 'Sublime', 'Vs Code', 'Postman'],
+
+};
+
+const EXPLORING = ['Go', 'Mobile dev', 'the hype'];
 ```
 ---
 
@@ -51,21 +50,11 @@ Here are some ideas to get you started:
   
 ---  
 <!-- ![](https://github-readme-stats.vercel.app/api?username=amitanshusahu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=amitanshusahu&theme=buefy&hide_border=false)
-<br> i am that guy who uses linux and codes in vim <br>
-🌱 I’m currently learning Ml and ⚡ Building cool stuffs <br>
-😄 Pronouns: he/him <br>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amitanshusahu&theme=buefy&hide_border=false) 
 
-<div align="left"> 
-  
-  <br><b>🧿  [ Visit My Portfolio ](https://github.com/amitanshusahu/amitanshusahu/edit/master/README.md) </b>
-  
-</div>
+<br><b>🧿  [ Visit My Portfolio ](https://github.com/amitanshusahu/amitanshusahu/edit/master/README.md) </b>
 
-<div align="right"> 
-  
-  [![](https://visitcount.itsvg.in/api?id=amitanshusahu&icon=6&color=0)](https://visitcount.itsvg.in)
-  
+ [![](https://visitcount.itsvg.in/api?id=amitanshusahu&icon=6&color=0)](https://visitcount.itsvg.in)
+
 </div>
  
